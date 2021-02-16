@@ -3,7 +3,6 @@ import torch.nn as nn
 import torchvision 
 import numpy as np
 import random
-import matplotlib.pyplot as plt
 
 def reprod_init():
     np.random.seed(0)
