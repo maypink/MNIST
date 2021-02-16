@@ -1,5 +1,3 @@
-import data 
-
 class MNISTNet(nn.Module):
     def __init__(self, n_hidden_neurons):
         super(MNISTNet, self).__init__()
